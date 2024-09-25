@@ -1,4 +1,4 @@
-00## Olá!
+## Olá!
 - 👀 Estou interessada na área de back-end.
 - 🌱 Estou cursando graduação de Ciência da computação.
 <div> 
